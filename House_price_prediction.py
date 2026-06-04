@@ -1,7 +1,7 @@
 # ============================================================
 #   House Price Prediction using Linear Regression
 #   Task 2 - Machine Learning Internship
-#   Made by: [Your Name]
+#   Made by: Sachin Avasthi
 # ============================================================
 
 # Step 1 - Import karo saari zaruri libraries
